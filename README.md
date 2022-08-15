@@ -1,7 +1,7 @@
 # Mahjong Tile Detection
 
 ## Quick Summary
-This is a computer vision project aimed to detect and classify mahjong tiles in images, videos or as they appear on the webcam.
+This is a computer vision project using YOLOv7 aimed to detect and classify mahjong tiles in images, videos or as they appear on the webcam.
 
 The scope of the project has been narrowed to detect only 3 types of tiles, namely honors-green ('qing fa'), honors-red ('hong zhong') and honors-white ('bai ban').
 
